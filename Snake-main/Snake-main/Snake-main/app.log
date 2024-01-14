@@ -1,0 +1,19 @@
+import logging
+
+logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s')
+
+try:
+    while True:  # or whatever condition your game loop has
+        # Your existing game loop code here
+        # ...
+        if game.is_game_over(player):
+            self.game_over = False
+            player.left_pressed = True
+            player.right_pressed = True
+            player.up_pressed = True
+            player.down_pressed = True
+
+        self._draw(maze, tile, player, game, clock)
+        self.FPS.tick(60)
+except Exception as e:
+    logging.error("Exception occurred", exc_info=True)
