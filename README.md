@@ -1,11 +1,14 @@
+## how to download the repo first time users
+
+  - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
+
+
+-----
+
 - ##   there are no issues with this game , if you want to FORK it GO FORK IT!!!!
 - ##   make account to FORK REPO
 
 ##SNAKE
-
-## how to download the repo first time users
-
-  - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
 
 follow the guide its only few steps these are the requirements to run the game
 
