@@ -8,7 +8,7 @@
 - ##   there are no issues with this game , if you want to FORK it GO FORK IT!!!!
 - ##   make account to FORK REPO
 
-##SNAKE
+## SNAKE
 
 use the `requirements.bat` to install the dependencies 
 
