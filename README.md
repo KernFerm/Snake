@@ -12,8 +12,6 @@
 
 use the `requirements.bat` to install the dependencies 
 
-if you do not have pet python ,
-
 ### If you dont have a pet python here is a couple below:
 - **YOU ONLY NEED ONLY VERSION OF PYTHON TO RUN THIS !!**
 - [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
